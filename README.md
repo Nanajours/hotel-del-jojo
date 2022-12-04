@@ -7,4 +7,4 @@
 | 2     | Rooftop    | ~~W~~ 4,500,0000 |
 | 3     | Taman      | ~~W~~ 5,000,0000 |
 | 4     | Bar        | ~~W~~ 1,250,0000 |
-#### Selamat Menginap
+#### Selamat Menginap!
